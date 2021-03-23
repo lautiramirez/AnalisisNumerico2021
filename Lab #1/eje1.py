@@ -21,4 +21,4 @@ a = ejercicio_a(x, y, z)
 b = ejercicio_b(x, y, z)
 
 print("Las expresiones del ejercicio 1a) son: ", a[0], "y ", a[1])
-print("Las expresiones del ejercicio 1b) son: ", b[0], "y",  b[1])
+print("Las expresiones del ejercicio 1b) son: ", b[0], "y ",  b[1])
