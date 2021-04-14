@@ -43,9 +43,9 @@ def buena(a, b, c):
 
     return x_1, x_2
 
-a = int(input("Ingrese el numero a: "))
-b = int(input("Ingrese el numero b: "))
-c = int(input("Ingrese el numero c: "))
+a = float(input("Ingrese el numero a: "))
+b = float(input("Ingrese el numero b: "))
+c = float(input("Ingrese el numero c: "))
 
 res1 = mala(a,b,c)
 res2 = buena(a,b,c)
